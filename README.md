@@ -1,2 +1,2 @@
-# Basic Python Practices 
+# Python Basic   
 Basic Python practice projects.
