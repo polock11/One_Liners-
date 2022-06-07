@@ -1,2 +1,2 @@
-# One_Liners-
+# Basic Python Practices 
 Basic Python practice projects.
